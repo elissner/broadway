@@ -11,7 +11,7 @@ h1{
 }
 
 .hero{
-  background-image: url("/Users/eriklissner/Documents/Webprojects/Broadway/resources/images/building.png");
+  background-image: url(/Users/eriklissner/Documents/Webprojects/Broadway/resources/images/building.png);
 }
 
 .btn-nav{
